@@ -1,7 +1,7 @@
 package MemoryManager;
 
 /*
-* @author Israel Herrera
+* @author Jefferson Lezcano
 */
 public class Settings
 {

@@ -6,7 +6,7 @@ import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 
 /*
-* @author Israel Herrera
+* @author Jefferson Lezcano
 */
 public class Logic
 {

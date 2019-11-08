@@ -22,5 +22,11 @@ public class Settings
     public boolean ReplacementScope;
     public boolean ResidentSetManagement;
     
+    public int PhysicalMemorySize;
+    public int PhysicalMemoryFrameSize;
+    public int SystemBlockSize;
+    public int VirtualMemorySize;
+    public int VirtualMemoryPageSize;
+    
     public Settings(){ }
 }
